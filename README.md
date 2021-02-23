@@ -4,7 +4,7 @@ OBJECTIVE: to clone the Chingu "conquer" website as close as possible to the ori
 
 TASKS
 
-This website clone was created using Vanilla/Plain HTML5, CSS, and JavaScript.
+This website clone was created using Vanilla/Plain HTML5, and CSS.
 
 HTML containers are used for each section.
 
