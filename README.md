@@ -23,5 +23,7 @@ Footer added, containing developer information.
 **Developer console shows no errors**
 
 CHINGU member: Marcus Pfeifer
+
 pyfeman (GitHub)
+
 Marcus250 (Discord)
