@@ -3,6 +3,7 @@
 OBJECTIVE: to clone the Chingu "conquer" website as close as possible to the original | https://chingu.io/
 
 TASKS
+
 This website clone was created using Vanilla/Plain HTML5, CSS, and JavaScript.
 
 You may NOT use frameworks or libraries such as Bootstrap.
