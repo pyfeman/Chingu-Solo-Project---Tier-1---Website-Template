@@ -6,10 +6,6 @@ TASKS
 
 This website clone was created using Vanilla/Plain HTML5, CSS, and JavaScript.
 
-You may NOT use frameworks or libraries such as Bootstrap.
-
-General instructions for all Pre-Work Projects can also be found in the Chingu Library.
-
 HTML containers are used for each section.
 
 Design and image elements (primarily from Unsplash and Pixabay) are assembled to support a "Tour of Washington, D.C." theme.
