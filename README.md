@@ -1,6 +1,6 @@
 # Chingu-Solo-Project---Tier-1---Website-Template
 
-OBJECTIVE: to clone the Chingu "conquer" website as close as possible to the original | https://chingu.io/
+OBJECTIVE: to clone the Chingu "conquer" website as close as possible to the original.
 
 TASKS
 
